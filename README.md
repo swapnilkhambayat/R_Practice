@@ -8,3 +8,4 @@ This repository contains my practice programs for R programming which includes b
 2) Data types in R
 3) Graphs
 4) String and numeric operations
+5) Law of large number 
