@@ -2,7 +2,7 @@
 R programs 
 
 
-This repository contains my practice programs for R programming which includes below topics:
+This repository contains my practice programs for R programming which includes below programs:
 
 1) Hello World
 2) Data types in R
